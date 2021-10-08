@@ -17,11 +17,12 @@ header{
     font-family: 'Permanent Marker', cursive;
     text-align: center;
     font-size: 40px;
+    width: 100%;
 }
 nav{
     background-color:rgb(230,0,38);
     height: 100px;
-    width: 100;
+    width: 100%;
 
 }
 
@@ -45,33 +46,57 @@ main{
     background-position: center;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Akronim', cursive;
+
     
 }
 .sponsors{
     background-color: rgba(240, 248, 255, 0.89);
-    height: 300px;
+    height: 450px;
+    width: 100%;
 
 }
 
 .media{
-    background-color:rgba(0, 0, 0, 0.486);
+    background-color:black;
     height: 100px;
+    width: 100%;
+    text-align: center;
 }
 
 
-.navsponsor img{
-    width: 70px;
-    height: 45px;
-    padding-left: 1800px;
-    position: relative;
 
-}
 
-.sponsors img{
+
+.bigs img{
     max-width: 160px;
     max-height: 100px;
     padding: 25px;
     vertical-align: middle;
     margin-left: 350px;
-    
+   
+}
+
+
+.small img{
+    max-width: 110px;
+    max-height: 85px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 200px;
+    padding: 20px;
+}
+
+.media img{
+    max-width:50px ;
+    max-height: 50px;
+    vertical-align: middle;
+    padding: 30px;  
+}
+
+
+.matches{
+    background-color: rgb(192, 170, 170)
 }
