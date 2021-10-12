@@ -42,7 +42,7 @@ nav{
 main{
     background-color: rgba(184, 71, 71, 0.74);
     height: 1000px;
-    width: 1500px;
+    width: 90%;
     background-position: center;
     margin-left: auto;
     margin-right: auto;
@@ -97,6 +97,348 @@ main{
 }
 
 
-.matches{
-    background-color: rgb(192, 170, 170)
+.match1{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    
+}
+.match2{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+.match3{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+.match4{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+.match5{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+.match6{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.match7{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+.match8{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+.match9{
+    background-color: rgb(192, 170, 170);
+    height: 80px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.first-team img{
+    max-width:65px ;
+    max-height: 65px;
+    float: left;
+    margin-left:35%;
+    padding: 10px;
+}
+
+
+.second-team img{
+    max-width:65px ;
+    max-height: 65px;
+    float: right;
+    margin-right: 35%;
+    padding: 10px;
+}   
+
+.Time{
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.firstname{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 300px;
+    margin-left: 20%;
+}
+
+    
+.secondname{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 300px;
+    right: 250px;
+    
+}
+
+.stadium{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 300px;
+
+}
+
+.firstname2{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 400px;
+    margin-left: 15%;
+}
+
+    
+.secondname2{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 400px;
+    right: 250px;
+    
+}
+
+.stadium2{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 400px;
+
+}
+
+.firstname3{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 500px;
+    margin-left: 15%;
+}
+
+    
+.secondname3{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 500px;
+    right: 250px;
+    
+}
+
+.stadium3{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 500px;
+
+}
+
+.firstname4{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 600px;
+    right: 950px;
+    margin-left: 15%;
+}
+
+    
+.secondname4{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 600px;
+    right: 250px;
+    
+}
+
+.stadium4{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 600px;
+
+}
+
+.firstname5{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 700px;
+    right: 950px;
+    margin-left: 15%;
+}
+
+    
+.secondname5{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 700px;
+    right: 250px;
+    
+}
+
+.stadium5{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 700px;
+
+}
+
+.firstname6{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 800px;
+    margin-left: 15%;
+}
+
+    
+.secondname6{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 800px;
+    right: 250px;
+    
+}
+
+.stadium6{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 800px;
+
+}
+
+.firstname7{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 900px;
+    right: 950px;
+    margin-left: 15%;
+}
+
+    
+.secondname7{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 900px;
+    right: 250px;
+    
+}
+
+.stadium7{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 900px;
+
+}
+
+.firstname8{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 1000px;
+    right: 915px;
+    margin-left: 15%;
+}
+
+    
+.secondname8{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 1000px;
+    right: 250px;
+    
+}
+
+.stadium8{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 1000px;
+
+}
+
+.firstname9{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: left;
+    position: absolute;
+    top: 1100px;
+    right: 925px;
+    margin-left: 15%;
+}
+
+    
+.secondname9{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 1100px;
+    right: 250px;
+    
+}
+
+.stadium9{
+    font-size: 25px;
+    font-family: 'Inconsolata', monospace;
+    float: right;
+    position: absolute;
+    top: 1100px;
+
 }
